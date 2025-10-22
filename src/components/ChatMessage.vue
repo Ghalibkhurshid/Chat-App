@@ -80,8 +80,4 @@ const formattedTime = computed(() => {
   margin-left: 6px;
 }
 
-.message-ticks {
-  width: 14px;
-  height: 14px;
-}
 </style>
